@@ -1,4 +1,6 @@
-# Monk#include<stdio.h>
+# Monk
+
+#include<stdio.h>
 #include<stdlib.h>
 struct node{
 int data;

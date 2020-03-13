@@ -48,7 +48,6 @@ return 0;
 }
 else
 {
-
 int lDepth = length(t->lptr);
 int rDepth = length(t->rptr);
 if (lDepth > rDepth) 
